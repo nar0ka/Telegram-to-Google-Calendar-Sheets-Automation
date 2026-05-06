@@ -48,7 +48,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ### 🔗 Links & Contacts
 * **GitHub**: [github.com/nar0ka](https://github.com/nar0ka)
 * **Gumroad Store**: [naroka.gumroad.com](https://naroka.gumroad.com)
-* **Affiliate & Partnership Program**: [Affiliates]([https://github.com/nar0ka/Partnership-Ecosystem-Grow-Your-Sales-with-Us](https://naroka.gumroad.com/affiliates)
+* **Affiliate & Partnership Program**: [Affiliates](https://naroka.gumroad.com/affiliates)
 
 ---
 
