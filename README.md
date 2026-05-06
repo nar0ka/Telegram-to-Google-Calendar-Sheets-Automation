@@ -1,5 +1,8 @@
 # Telegram-to-Google-Calendar-Sheets-Automation (Open Source)
 
+### 🛠 System Architecture
+![Telegram-to-Google-Calendar-Sheets-Automation](изображение_2026-05-06_210320727.png)
+
 An open-source n8n workflow template that turns your Telegram bot into a personal assistant. Capture notes, tasks, or events, and automatically sync them to your Google Sheets and Google Calendar.
 
 ---
