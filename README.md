@@ -37,9 +37,18 @@ An open-source n8n workflow template that turns your Telegram bot into a persona
 4. Activate the workflow and test it with your bot.
 
 ---
+### 📂 More Projects
+Discover more awesome AI automation projects and workflows available in our ecosystem:
+* **All Projects**: [github.com/nar0ka](https://github.com/nar0ka)
+  
 
 ### ⚖️ License
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute it, including for creating digital products to sell on marketplaces.
+
+### 🔗 Links & Contacts
+* **GitHub**: [github.com/nar0ka](https://github.com/nar0ka)
+* **Gumroad Store**: [naroka.gumroad.com](https://naroka.gumroad.com)
+* **Affiliate & Partnership Program**: [Affiliates]([https://github.com/nar0ka/Partnership-Ecosystem-Grow-Your-Sales-with-Us](https://naroka.gumroad.com/affiliates))
 
 ---
 
