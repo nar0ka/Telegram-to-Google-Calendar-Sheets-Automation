@@ -7,6 +7,7 @@ An open-source n8n workflow template that turns your Telegram bot into a persona
 
 ---
 
+
 ### 🌟 Features
 * **Open Source:** Free to use, fork, and modify for your personal or commercial projects.
 * **Automated Logging:** Saves all incoming Telegram messages into a Google Sheet.
